@@ -1,6 +1,12 @@
 # Pizza-Tower-ETB-Vita
 a port of pizza tower early test build (2018) to the playstation vita
 
+# ***SOURCE CODE WAS REMOVED***
+
+if its needed dm me on discord: *raccnamedpatt* as i still have it on my desktop
+
+# INFO
+
 minimal issues such as crashing when choosing exit on the pause menu, and freezes when switching rooms super fast
 
 best played with overclock, but there is lag in the tutorial room. the main level runs fine afterwards
